@@ -11,7 +11,7 @@ public class Ex01 {
 		System.out.println("팀원2 여섯번째 커밋");
 		System.out.println("팀장 일곱번째 커밋");
 		
-		System.out.println("개인 브랜치 커밋");
+		System.out.println("PHS 개인 브랜치 커밋");
 	}
 
 }
